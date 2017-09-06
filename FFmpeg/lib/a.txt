@@ -1,0 +1,2934 @@
+
+dyasbt.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$7
+00000000 t .text
+00000000 I __libavcodec_avcodec_lib_iname
+
+dyasbh.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$2
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 t .text
+00000000 I __head_libavcodec_avcodec_lib
+         U __libavcodec_avcodec_lib_iname
+00000000 i fthunk
+00000000 i hname
+
+dyasbs00243.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avsubtitle_free
+00000000 T _avsubtitle_free
+
+dyasbs00242.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_unlock_avformat
+00000000 T _avpriv_unlock_avformat
+
+dyasbs00241.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_toupper4
+00000000 T _avpriv_toupper4
+
+dyasbs00240.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_tak_parse_streaminfo
+00000000 T _avpriv_tak_parse_streaminfo
+
+dyasbs00239.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_split_xiph_headers
+00000000 T _avpriv_split_xiph_headers
+
+dyasbs00238.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_put_string
+00000000 T _avpriv_put_string
+
+dyasbs00237.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_pix_fmt_bps_mov
+
+dyasbs00236.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_pix_fmt_bps_avi
+
+dyasbs00235.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mpegaudio_decode_header
+00000000 T _avpriv_mpegaudio_decode_header
+
+dyasbs00234.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mpeg4audio_sample_rates
+
+dyasbs00233.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mpeg4audio_get_config
+00000000 T _avpriv_mpeg4audio_get_config
+
+dyasbs00232.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mpa_freq_tab
+
+dyasbs00231.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mpa_decode_header2
+00000000 T _avpriv_mpa_decode_header2
+
+dyasbs00230.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mpa_decode_header
+00000000 T _avpriv_mpa_decode_header
+
+dyasbs00229.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mpa_bitrate_tab
+
+dyasbs00228.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mjpeg_val_dc
+
+dyasbs00227.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mjpeg_val_ac_luminance
+
+dyasbs00226.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mjpeg_val_ac_chrominance
+
+dyasbs00225.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mjpeg_bits_dc_luminance
+
+dyasbs00224.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mjpeg_bits_dc_chrominance
+
+dyasbs00223.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mjpeg_bits_ac_luminance
+
+dyasbs00222.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_mjpeg_bits_ac_chrominance
+
+dyasbs00221.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_lock_avformat
+00000000 T _avpriv_lock_avformat
+
+dyasbs00220.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_init_elbg
+00000000 T _avpriv_init_elbg
+
+dyasbs00219.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_h264_has_num_reorder_frames
+00000000 T _avpriv_h264_has_num_reorder_frames
+
+dyasbs00218.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_get_raw_pix_fmt_tags
+00000000 T _avpriv_get_raw_pix_fmt_tags
+
+dyasbs00217.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_find_start_code
+00000000 T _avpriv_find_start_code
+
+dyasbs00216.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_find_pix_fmt
+00000000 T _avpriv_find_pix_fmt
+
+dyasbs00215.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_exif_decode_ifd
+00000000 T _avpriv_exif_decode_ifd
+
+dyasbs00214.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_do_elbg
+00000000 T _avpriv_do_elbg
+
+dyasbs00213.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_dnxhd_parse_header_prefix
+00000000 T _avpriv_dnxhd_parse_header_prefix
+
+dyasbs00212.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_dnxhd_get_interlaced
+00000000 T _avpriv_dnxhd_get_interlaced
+
+dyasbs00211.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_dnxhd_get_frame_size
+00000000 T _avpriv_dnxhd_get_frame_size
+
+dyasbs00210.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_dca_sample_rates
+
+dyasbs00209.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_dca_parse_core_frame_header
+00000000 T _avpriv_dca_parse_core_frame_header
+
+dyasbs00208.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_dca_convert_bitstream
+00000000 T _avpriv_dca_convert_bitstream
+
+dyasbs00207.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_copy_pce_data
+00000000 T _avpriv_copy_pce_data
+
+dyasbs00206.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_copy_bits
+00000000 T _avpriv_copy_bits
+
+dyasbs00205.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_codec_get_cap_skip_frame_fill_param
+00000000 T _avpriv_codec_get_cap_skip_frame_fill_param
+
+dyasbs00204.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_bprint_to_extradata
+00000000 T _avpriv_bprint_to_extradata
+
+dyasbs00203.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_align_put_bits
+00000000 T _avpriv_align_put_bits
+
+dyasbs00202.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_ac3_parse_header
+00000000 T _avpriv_ac3_parse_header
+
+dyasbs00201.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_ac3_channel_layout_tab
+
+dyasbs00200.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpriv_aac_parse_header
+00000000 T _avpriv_aac_parse_header
+
+dyasbs00199.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpicture_layout
+00000000 T _avpicture_layout
+
+dyasbs00198.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpicture_get_size
+00000000 T _avpicture_get_size
+
+dyasbs00197.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpicture_free
+00000000 T _avpicture_free
+
+dyasbs00196.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpicture_fill
+00000000 T _avpicture_fill
+
+dyasbs00195.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avpicture_alloc
+00000000 T _avpicture_alloc
+
+dyasbs00194.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__average_split_mvs
+00000000 T _average_split_mvs
+
+dyasbs00193.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__aver_isf_history
+00000000 T _aver_isf_history
+
+dyasbs00192.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_version
+00000000 T _avcodec_version
+
+dyasbs00191.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_string
+00000000 T _avcodec_string
+
+dyasbs00190.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_set_dimensions
+00000000 T _avcodec_set_dimensions
+
+dyasbs00189.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_send_packet
+00000000 T _avcodec_send_packet
+
+dyasbs00188.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_send_frame
+00000000 T _avcodec_send_frame
+
+dyasbs00187.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_register_all
+00000000 T _avcodec_register_all
+
+dyasbs00186.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_register
+00000000 T _avcodec_register
+
+dyasbs00185.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_receive_packet
+00000000 T _avcodec_receive_packet
+
+dyasbs00184.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_receive_frame
+00000000 T _avcodec_receive_frame
+
+dyasbs00183.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_profile_name
+00000000 T _avcodec_profile_name
+
+dyasbs00182.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_pix_fmt_to_codec_tag
+00000000 T _avcodec_pix_fmt_to_codec_tag
+
+dyasbs00181.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_parameters_to_context
+00000000 T _avcodec_parameters_to_context
+
+dyasbs00180.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_parameters_from_context
+00000000 T _avcodec_parameters_from_context
+
+dyasbs00179.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_parameters_free
+00000000 T _avcodec_parameters_free
+
+dyasbs00178.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_parameters_copy
+00000000 T _avcodec_parameters_copy
+
+dyasbs00177.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_parameters_alloc
+00000000 T _avcodec_parameters_alloc
+
+dyasbs00176.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_open2
+00000000 T _avcodec_open2
+
+dyasbs00175.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_license
+00000000 T _avcodec_license
+
+dyasbs00174.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_is_open
+00000000 T _avcodec_is_open
+
+dyasbs00173.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_type
+00000000 T _avcodec_get_type
+
+dyasbs00172.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_subtitle_rect_class
+00000000 T _avcodec_get_subtitle_rect_class
+
+dyasbs00171.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_pix_fmt_loss
+00000000 T _avcodec_get_pix_fmt_loss
+
+dyasbs00170.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_name
+00000000 T _avcodec_get_name
+
+dyasbs00169.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_frame_class
+00000000 T _avcodec_get_frame_class
+
+dyasbs00168.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_edge_width
+00000000 T _avcodec_get_edge_width
+
+dyasbs00167.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_context_defaults3
+00000000 T _avcodec_get_context_defaults3
+
+dyasbs00166.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_class
+00000000 T _avcodec_get_class
+
+dyasbs00165.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_get_chroma_sub_sample
+00000000 T _avcodec_get_chroma_sub_sample
+
+dyasbs00164.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_free_context
+00000000 T _avcodec_free_context
+
+dyasbs00163.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_flush_buffers
+00000000 T _avcodec_flush_buffers
+
+dyasbs00162.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_find_encoder_by_name
+00000000 T _avcodec_find_encoder_by_name
+
+dyasbs00161.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_find_encoder
+00000000 T _avcodec_find_encoder
+
+dyasbs00160.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_find_decoder_by_name
+00000000 T _avcodec_find_decoder_by_name
+
+dyasbs00159.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_find_decoder
+00000000 T _avcodec_find_decoder
+
+dyasbs00158.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_find_best_pix_fmt_of_list
+00000000 T _avcodec_find_best_pix_fmt_of_list
+
+dyasbs00157.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_find_best_pix_fmt_of_2
+00000000 T _avcodec_find_best_pix_fmt_of_2
+
+dyasbs00156.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_find_best_pix_fmt2
+00000000 T _avcodec_find_best_pix_fmt2
+
+dyasbs00155.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_fill_audio_frame
+00000000 T _avcodec_fill_audio_frame
+
+dyasbs00154.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_enum_to_chroma_pos
+00000000 T _avcodec_enum_to_chroma_pos
+
+dyasbs00153.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_encode_video2
+00000000 T _avcodec_encode_video2
+
+dyasbs00152.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_encode_subtitle
+00000000 T _avcodec_encode_subtitle
+
+dyasbs00151.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_encode_audio2
+00000000 T _avcodec_encode_audio2
+
+dyasbs00150.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_descriptor_next
+00000000 T _avcodec_descriptor_next
+
+dyasbs00149.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_descriptor_get_by_name
+00000000 T _avcodec_descriptor_get_by_name
+
+dyasbs00148.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_descriptor_get
+00000000 T _avcodec_descriptor_get
+
+dyasbs00147.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_default_get_format
+00000000 T _avcodec_default_get_format
+
+dyasbs00146.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_default_get_buffer2
+00000000 T _avcodec_default_get_buffer2
+
+dyasbs00145.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_default_execute2
+00000000 T _avcodec_default_execute2
+
+dyasbs00144.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_default_execute
+00000000 T _avcodec_default_execute
+
+dyasbs00143.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_decode_video2
+00000000 T _avcodec_decode_video2
+
+dyasbs00142.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_decode_subtitle2
+00000000 T _avcodec_decode_subtitle2
+
+dyasbs00141.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_decode_audio4
+00000000 T _avcodec_decode_audio4
+
+dyasbs00140.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_dct_init
+00000000 T _avcodec_dct_init
+
+dyasbs00139.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_dct_get_class
+00000000 T _avcodec_dct_get_class
+
+dyasbs00138.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_dct_alloc
+00000000 T _avcodec_dct_alloc
+
+dyasbs00137.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_copy_context
+00000000 T _avcodec_copy_context
+
+dyasbs00136.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_configuration
+00000000 T _avcodec_configuration
+
+dyasbs00135.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_close
+00000000 T _avcodec_close
+
+dyasbs00134.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_chroma_pos_to_enum
+00000000 T _avcodec_chroma_pos_to_enum
+
+dyasbs00133.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_alloc_context3
+00000000 T _avcodec_alloc_context3
+
+dyasbs00132.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_align_dimensions2
+00000000 T _avcodec_align_dimensions2
+
+dyasbs00131.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__avcodec_align_dimensions
+00000000 T _avcodec_align_dimensions
+
+dyasbs00130.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__available_bits
+00000000 T _available_bits
+
+dyasbs00129.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_xiphlacing
+00000000 T _av_xiphlacing
+
+dyasbs00128.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_vorbis_parse_reset
+00000000 T _av_vorbis_parse_reset
+
+dyasbs00127.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_vorbis_parse_init
+00000000 T _av_vorbis_parse_init
+
+dyasbs00126.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_vorbis_parse_free
+00000000 T _av_vorbis_parse_free
+
+dyasbs00125.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_vorbis_parse_frame_flags
+00000000 T _av_vorbis_parse_frame_flags
+
+dyasbs00124.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_vorbis_parse_frame
+00000000 T _av_vorbis_parse_frame
+
+dyasbs00123.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_shrink_packet
+00000000 T _av_shrink_packet
+
+dyasbs00122.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_resample_init
+00000000 T _av_resample_init
+
+dyasbs00121.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_resample_compensate
+00000000 T _av_resample_compensate
+
+dyasbs00120.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_resample_close
+00000000 T _av_resample_close
+
+dyasbs00119.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_resample
+00000000 T _av_resample
+
+dyasbs00118.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_register_hwaccel
+00000000 T _av_register_hwaccel
+
+dyasbs00117.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_register_codec_parser
+00000000 T _av_register_codec_parser
+
+dyasbs00116.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_register_bitstream_filter
+00000000 T _av_register_bitstream_filter
+
+dyasbs00115.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_rdft_init
+00000000 T _av_rdft_init
+
+dyasbs00114.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_rdft_end
+00000000 T _av_rdft_end
+
+dyasbs00113.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_rdft_calc
+00000000 T _av_rdft_calc
+
+dyasbs00112.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_qsv_alloc_context
+00000000 T _av_qsv_alloc_context
+
+dyasbs00111.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_picture_pad
+00000000 T _av_picture_pad
+
+dyasbs00110.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_picture_crop
+00000000 T _av_picture_crop
+
+dyasbs00109.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_picture_copy
+00000000 T _av_picture_copy
+
+dyasbs00108.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_parser_parse2
+00000000 T _av_parser_parse2
+
+dyasbs00107.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_parser_next
+00000000 T _av_parser_next
+
+dyasbs00106.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_parser_init
+00000000 T _av_parser_init
+
+dyasbs00105.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_parser_close
+00000000 T _av_parser_close
+
+dyasbs00104.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_parser_change
+00000000 T _av_parser_change
+
+dyasbs00103.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_unref
+00000000 T _av_packet_unref
+
+dyasbs00102.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_unpack_dictionary
+00000000 T _av_packet_unpack_dictionary
+
+dyasbs00101.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_split_side_data
+00000000 T _av_packet_split_side_data
+
+dyasbs00100.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_side_data_name
+00000000 T _av_packet_side_data_name
+
+dyasbs00099.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_shrink_side_data
+00000000 T _av_packet_shrink_side_data
+
+dyasbs00098.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_rescale_ts
+00000000 T _av_packet_rescale_ts
+
+dyasbs00097.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_ref
+00000000 T _av_packet_ref
+
+dyasbs00096.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_pack_dictionary
+00000000 T _av_packet_pack_dictionary
+
+dyasbs00095.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_new_side_data
+00000000 T _av_packet_new_side_data
+
+dyasbs00094.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_move_ref
+00000000 T _av_packet_move_ref
+
+dyasbs00093.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_merge_side_data
+00000000 T _av_packet_merge_side_data
+
+dyasbs00092.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_get_side_data
+00000000 T _av_packet_get_side_data
+
+dyasbs00091.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_from_data
+00000000 T _av_packet_from_data
+
+dyasbs00090.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_free_side_data
+00000000 T _av_packet_free_side_data
+
+dyasbs00089.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_free
+00000000 T _av_packet_free
+
+dyasbs00088.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_copy_props
+00000000 T _av_packet_copy_props
+
+dyasbs00087.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_clone
+00000000 T _av_packet_clone
+
+dyasbs00086.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_alloc
+00000000 T _av_packet_alloc
+
+dyasbs00085.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_packet_add_side_data
+00000000 T _av_packet_add_side_data
+
+dyasbs00084.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_new_packet
+00000000 T _av_new_packet
+
+dyasbs00083.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_mediacodec_release_buffer
+00000000 T _av_mediacodec_release_buffer
+
+dyasbs00082.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_mediacodec_default_init
+00000000 T _av_mediacodec_default_init
+
+dyasbs00081.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_mediacodec_default_free
+00000000 T _av_mediacodec_default_free
+
+dyasbs00080.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_mediacodec_alloc_context
+00000000 T _av_mediacodec_alloc_context
+
+dyasbs00079.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_mdct_init
+00000000 T _av_mdct_init
+
+dyasbs00078.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_mdct_end
+00000000 T _av_mdct_end
+
+dyasbs00077.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_mdct_calc
+00000000 T _av_mdct_calc
+
+dyasbs00076.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_log_missing_feature
+00000000 T _av_log_missing_feature
+
+dyasbs00075.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_log_ask_for_sample
+00000000 T _av_log_ask_for_sample
+
+dyasbs00074.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_lockmgr_register
+00000000 T _av_lockmgr_register
+
+dyasbs00073.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_jni_set_java_vm
+00000000 T _av_jni_set_java_vm
+
+dyasbs00072.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_jni_get_java_vm
+00000000 T _av_jni_get_java_vm
+
+dyasbs00071.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_init_packet
+00000000 T _av_init_packet
+
+dyasbs00070.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_imdct_half
+00000000 T _av_imdct_half
+
+dyasbs00069.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_imdct_calc
+00000000 T _av_imdct_calc
+
+dyasbs00068.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_hwaccel_next
+00000000 T _av_hwaccel_next
+
+dyasbs00067.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_grow_packet
+00000000 T _av_grow_packet
+
+dyasbs00066.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_get_profile_name
+00000000 T _av_get_profile_name
+
+dyasbs00065.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_get_pcm_codec
+00000000 T _av_get_pcm_codec
+
+dyasbs00064.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_get_exact_bits_per_sample
+00000000 T _av_get_exact_bits_per_sample
+
+dyasbs00063.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_get_codec_tag_string
+00000000 T _av_get_codec_tag_string
+
+dyasbs00062.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_get_bits_per_sample
+00000000 T _av_get_bits_per_sample
+
+dyasbs00061.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_get_audio_frame_duration2
+00000000 T _av_get_audio_frame_duration2
+
+dyasbs00060.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_get_audio_frame_duration
+00000000 T _av_get_audio_frame_duration
+
+dyasbs00059.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_free_packet
+00000000 T _av_free_packet
+
+dyasbs00058.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_fft_permute
+00000000 T _av_fft_permute
+
+dyasbs00057.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_fft_init
+00000000 T _av_fft_init
+
+dyasbs00056.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_fft_end
+00000000 T _av_fft_end
+
+dyasbs00055.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_fft_calc
+00000000 T _av_fft_calc
+
+dyasbs00054.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_fast_padded_mallocz
+00000000 T _av_fast_padded_mallocz
+
+dyasbs00053.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_fast_padded_malloc
+00000000 T _av_fast_padded_malloc
+
+dyasbs00052.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_dv_frame_profile
+00000000 T _av_dv_frame_profile
+
+dyasbs00051.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_dv_codec_profile2
+00000000 T _av_dv_codec_profile2
+
+dyasbs00050.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_dv_codec_profile
+00000000 T _av_dv_codec_profile
+
+dyasbs00049.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_dup_packet
+00000000 T _av_dup_packet
+
+dyasbs00048.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_dirac_parse_sequence_header
+00000000 T _av_dirac_parse_sequence_header
+
+dyasbs00047.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_dct_init
+00000000 T _av_dct_init
+
+dyasbs00046.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_dct_end
+00000000 T _av_dct_end
+
+dyasbs00045.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_dct_calc
+00000000 T _av_dct_calc
+
+dyasbs00044.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_d3d11va_alloc_context
+00000000 T _av_d3d11va_alloc_context
+
+dyasbs00043.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_cpb_properties_alloc
+00000000 T _av_cpb_properties_alloc
+
+dyasbs00042.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_copy_packet_side_data
+00000000 T _av_copy_packet_side_data
+
+dyasbs00041.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_copy_packet
+00000000 T _av_copy_packet
+
+dyasbs00040.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_set_seek_preroll
+00000000 T _av_codec_set_seek_preroll
+
+dyasbs00039.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_set_pkt_timebase
+00000000 T _av_codec_set_pkt_timebase
+
+dyasbs00038.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_set_lowres
+00000000 T _av_codec_set_lowres
+
+dyasbs00037.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_set_codec_descriptor
+00000000 T _av_codec_set_codec_descriptor
+
+dyasbs00036.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_set_chroma_intra_matrix
+00000000 T _av_codec_set_chroma_intra_matrix
+
+dyasbs00035.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_next
+00000000 T _av_codec_next
+
+dyasbs00034.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_is_encoder
+00000000 T _av_codec_is_encoder
+
+dyasbs00033.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_is_decoder
+00000000 T _av_codec_is_decoder
+
+dyasbs00032.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_get_seek_preroll
+00000000 T _av_codec_get_seek_preroll
+
+dyasbs00031.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_get_pkt_timebase
+00000000 T _av_codec_get_pkt_timebase
+
+dyasbs00030.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_get_max_lowres
+00000000 T _av_codec_get_max_lowres
+
+dyasbs00029.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_get_lowres
+00000000 T _av_codec_get_lowres
+
+dyasbs00028.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_get_codec_properties
+00000000 T _av_codec_get_codec_properties
+
+dyasbs00027.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_get_codec_descriptor
+00000000 T _av_codec_get_codec_descriptor
+
+dyasbs00026.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_get_chroma_intra_matrix
+00000000 T _av_codec_get_chroma_intra_matrix
+
+dyasbs00025.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_codec_ffversion
+
+dyasbs00024.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_send_packet
+00000000 T _av_bsf_send_packet
+
+dyasbs00023.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_receive_packet
+00000000 T _av_bsf_receive_packet
+
+dyasbs00022.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_next
+00000000 T _av_bsf_next
+
+dyasbs00021.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_list_parse_str
+00000000 T _av_bsf_list_parse_str
+
+dyasbs00020.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_list_free
+00000000 T _av_bsf_list_free
+
+dyasbs00019.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_list_finalize
+00000000 T _av_bsf_list_finalize
+
+dyasbs00018.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_list_append2
+00000000 T _av_bsf_list_append2
+
+dyasbs00017.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_list_append
+00000000 T _av_bsf_list_append
+
+dyasbs00016.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_list_alloc
+00000000 T _av_bsf_list_alloc
+
+dyasbs00015.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_init
+00000000 T _av_bsf_init
+
+dyasbs00014.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_get_null_filter
+00000000 T _av_bsf_get_null_filter
+
+dyasbs00013.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_get_class
+00000000 T _av_bsf_get_class
+
+dyasbs00012.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_get_by_name
+00000000 T _av_bsf_get_by_name
+
+dyasbs00011.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_free
+00000000 T _av_bsf_free
+
+dyasbs00010.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bsf_alloc
+00000000 T _av_bsf_alloc
+
+dyasbs00009.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bitstream_filter_next
+00000000 T _av_bitstream_filter_next
+
+dyasbs00008.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bitstream_filter_init
+00000000 T _av_bitstream_filter_init
+
+dyasbs00007.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bitstream_filter_filter
+00000000 T _av_bitstream_filter_filter
+
+dyasbs00006.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_bitstream_filter_close
+00000000 T _av_bitstream_filter_close
+
+dyasbs00005.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_audio_resample_init
+00000000 T _av_audio_resample_init
+
+dyasbs00004.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_audio_convert_free
+00000000 T _av_audio_convert_free
+
+dyasbs00003.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_audio_convert_alloc
+00000000 T _av_audio_convert_alloc
+
+dyasbs00002.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__av_audio_convert
+00000000 T _av_audio_convert
+
+dyasbs00001.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__audio_resample_close
+00000000 T _audio_resample_close
+
+dyasbs00000.o:
+00000000 b .bss
+00000000 d .data
+00000000 i .idata$4
+00000000 i .idata$5
+00000000 i .idata$6
+00000000 i .idata$7
+00000000 t .text
+         U __head_libavcodec_avcodec_lib
+00000000 I __imp__audio_resample
+00000000 T _audio_resample
